@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is for you who are called the Comon-vvealths-men [sic] both in the Army and Parliament to read. Wherein are many plain and true things declared unto you (which are suitable to your present estate and condition) that that [sic] ye may consider them in the same that they are sent unto you in, which is in truth, and in sincerity, and singlenesse and uprightnesse of heart, in that love which thinks no evil, even in obedience unto the spirit of the Lord, which also saith, try all things, and hold fast that which is good. / Given forth by George Fox the younger.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23182</idno>
+            <idno type="STC">Wing F2011</idno>
+            <idno type="STC">Interim Tract Supplement Guide 855.f.3[52]</idno>
+            <idno type="STC">ESTC R229352</idno>
+            <idno type="EEBO-CITATION">99888341</idno>
+            <idno type="PROQUEST">ocm99888341</idno>
+            <idno type="VID">193546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193546)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B9:1([56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is for you who are called the Comon-vvealths-men [sic] both in the Army and Parliament to read. Wherein are many plain and true things declared unto you (which are suitable to your present estate and condition) that that [sic] ye may consider them in the same that they are sent unto you in, which is in truth, and in sincerity, and singlenesse and uprightnesse of heart, in that love which thinks no evil, even in obedience unto the spirit of the Lord, which also saith, try all things, and hold fast that which is good. / Given forth by George Fox the younger.</title>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.F. = George Fox.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Church and state --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193546:1" rendition="simple:additions"/>
+            <p>This is for YOU who are called the Comon-VVealths-Men both in the ARMY and PARLIAMENT To Read.</p>
+            <p>Wherein are many plain and true things declared unto you (which are ſuitable to your preſent eſtate and con<g ref="char:EOLhyphen"/>dition) that that ye may confider them in the ſame that they are ſent unto you in, which is in Truth, and in ſincerity, and ſingleneſſe and uprightneſſe of heart, in that love which thinks no evil, even in obedience unto the ſpirit of the Lord, which alſo ſaith, Try all things, and hold faſt that which is good.</p>
+            <p>Given forth by <hi>George Fox</hi> the younger.</p>
+            <q>
+               <p>
+                  <hi>The ear that beareth the reproof of Life, abideth among the wiſe.</hi>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <hi>He that refuſeth instruction, deſpiſeth his own ſoul; But he that heareth reproof, getteth underſtanding.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:193546:2"/>
+            <pb n="3" facs="tcp:193546:2" rendition="simple:additions"/>
+            <head>To them who are called the Common-Wealths-men, both in the Army and Parliament to read.</head>
+            <opener>
+               <salute>FRIENDS.</salute>
+            </opener>
+            <p>IN ſeveral of you I know there hath ſtirred, and doth oft ſtir a pure, true living principle of God, which hath be<g ref="char:EOLhyphen"/>got, (and doth beget) true, honeſt and upright deſires, and breathings in you after righteouſneſſe, true liberty and freedom, (and loathings of oppreſſion and Tyran<g ref="char:EOLhyphen"/>ny) and it hath been in the hearts of ſome of you, &amp; much upon you to break down oppreſſion and tyranny, and to remove op<g ref="char:EOLhyphen"/>preſſors, and to make void all ſuch laws as makes proviſion for tyranny and oppreſſion, whereby the oppreſſors hath long been ſtrengthened in their oppreſſing the people of this Nation; and ſome of you have felt the weight and burthen of oppreſſi<g ref="char:EOLhyphen"/>on and tyranny, (under which the innocent ſuffers) and it hath been much in your hearts to ſet up righteous lawes, whereby all people might have equity and juſtice done to them, and for them, by ſuch as you have had thoughts to put in authority, which would do juſt and equal things between man and man, without reſpect to perſons.</p>
+            <p>Theſe things the Lords witneſſe (in you) hath ſhewed un<g ref="char:EOLhyphen"/>to you, that they ought to be done by you, and ſome of you have breathed and deſired much to do theſe things, when ye have owned the pure movings and ſtirrings of the meaſure of the life and power of God (in you) which hath ſtired and mo<g ref="char:EOLhyphen"/>ved in you) towards righteouſneſſe, equity, mercy, and juſtice; But hitherto ye have been much hindred in this work.</p>
+            <p>And truly Friends, there are many things yet remaining in and among you, (Mark that) which hinders and ſtops you in this work of true reformation, and they will ſtop you there<g ref="char:EOLhyphen"/>in (Mark that) ſo long as they bear rule in and among you, and are conſented to (and regarded) by you, many of thoſe things are as followeth.</p>
+            <p>
+               <hi>Firſt,</hi> There are many that pretends that they are of you,
+<pb n="4" facs="tcp:193546:3" rendition="simple:additions"/>
+               <hi>(Mark that)</hi> which hath joyned unto you in ſome outward ap<g ref="char:EOLhyphen"/>pearance; but it is more for fear of loſing their places, and the riches and honour of this World, then for love to the cauſe of equity, Juſtice and true liberty; And theſe are in the Prieſts nature, who for covetouſneſſe, and ſelf-ends, can change with the times, and governments, and pretend they are for them (ſo long a they will hold them up) and ſuch are neither true to God, nor their Countrey; for they can lay down their Religion, which they have pretended to ſtand for, and deny the Cauſe of their Countrey, if it will make moſt for their own gain, and then ſay, It was the Lords doing, and they are ſatisfied in it, though it be quite contrary to that which they have formerly contended for; and of this ſort there are many among you which ſtops the work you ought to do.</p>
+            <p>And ſeveral of you alſo, in whom the Truth of God have ſtirred againſt oppreſſion and tyranny, verily your mindes are yet ſo much in your Commiſſions and places, and in the love, and honour, and wiſdom of this World, that this ſtops you in the work ye ought to do. And ſome of you have ſo many Relations, mark that, that have ſuch a great gain, in thoſe very things which greatly oppreſſeth the people of this Nation; and alſo ſome of your ſelves are concerned in theſe things, that ſo ye cannot tell how to take away oppreſſion wholly, without taking away their and your own gain; and theſe things being looked at by you, they exceedingly ſtops you in the work you ought to do; becauſe herein private ſelf-ends, and reſpect to perſons, by you is preferred before the general good of all.</p>
+            <p>Now Friends, whileſt your mindes, and thoughts and hearts runs into, or after any of theſe things, They (with the enemy of your ſouls) will not ſuffer you to do that which is equall, no further (to be ſure) then will ſtand ſafe for the upholding and prefering of your Relations, and your own private, par<g ref="char:EOLhyphen"/>ticular ſelf-ends.</p>
+            <p>Therefore all wait in that which is pure and living of God, in you, which will ſhew you all deceit, if ye keep to it, that ſo by it your mindes may be redeemed out of all ſelf, and re<g ref="char:EOLhyphen"/>ſpect
+<pb n="5" facs="tcp:193546:3" rendition="simple:additions"/>to perſons, that ſo all particular private ſelf ends, and re<g ref="char:EOLhyphen"/>ſpect to perſons, may be denied, and utterly trampled upon by you, and that the general good and freedom of all, with<g ref="char:EOLhyphen"/>out reſpect of perſons, may be minded and acted for, by you, that ſo ye may ſerve the Lord God, and your generation in ſingleneſſe and uprightneſſe of heart, and then the Lord will honour you, and he will be your ſufficient reward.</p>
+            <p>Verily it is a mighty thing, and it is highly to be prized by you, eſpecially ye of the Army, that ever the Lord God ſhould make uſe of you again, and again put an oppertunity into your hands, to do that which you formerly promiſed and vowd unto the Lord [and your Nation] to do, ſeeing ye ſo ſleight<g ref="char:EOLhyphen"/>ed <hi>(Mark that)</hi> the former opertunities which the Lord God gave you, and acted ſo treacherouſly and deceitfully as ye did in your backſlidings; and if ye ſhould ſleight this opertuni<g ref="char:EOLhyphen"/>ty alſo, do not expect another, (be not deceived, God will not be mocked) Therefore, conſider theſe things, and mind to anſwer the Lords love yet continued unto you.</p>
+            <p>But if ye look out at, or ſuffer your minds to run into, <hi>(Mark)</hi> the greatneſſe of your places, or after your gain, or the honour of the World; or if ye look out at love or hatred of your pretended Friends or known enemies, or at any par<g ref="char:EOLhyphen"/>ticular ſelf-end whatſoever; Theſe things will ſtrangle the principle of God in you, which moves to do that which is e<g ref="char:EOLhyphen"/>qual and juſt unto all, and then the tender ſeed in you which feels the weight and burthen of oppreſſion that will be mur<g ref="char:EOLhyphen"/>thered; and then deadneſſe and hardneſſe of heart will come upon you more and more, and ye will ſettle deeper and deep<g ref="char:EOLhyphen"/>er in the death; and verily, if ye ſhould do thus, ye would be<g ref="char:EOLhyphen"/>come even as <hi>Sodom</hi> and <hi>Gomorah</hi> unto the Lord, and he would overturn you with a great and mighty deſtruction (as he did them) Therefore remember you have been warned.</p>
+            <p>So look at none of theſe things, but look ye to the Lord God, and mind the movings of his life [in you] and be obe<g ref="char:EOLhyphen"/>dient thereto, and as oppreſſion, and tyranny and in juſtice is made manifeſt unto you [by the light of the Lord in you] in the power of the Lord committed unto you, break it down and overturn it, and ſet up and eſtabliſh righteous laws, equity, mer<g ref="char:EOLhyphen"/>cy,
+<pb n="6" facs="tcp:193546:4"/>and Juſtice, and true liberty in its place, and then you need not fear what man can do unto you, for the Lord would then be your preſerver.</p>
+            <p>So the Lord God hath once more tryed you; Now if you love Father, Mother, Wife, Children, Houſes, Lands, Com<g ref="char:EOLhyphen"/>miſſions, Honours of the World, or any particular ſelf-end whatſoever more then the Work of the Lord, or if ye prefe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any of them ſo as thereby to ſtop the Lords Work, or if ye do the Lords work negligently (which he hath once more pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into your hands) verily ye ſhall not be counted worthy to be the Lords workmen.</p>
+            <p>So remember <hi>Saul</hi> (who was made an example that others might take warning) who ſlew but part, (of that which was to be deſtroyod) and ſaved a part alive, and therein he was ſtubborn and diſobedient; Now if ye ſhould deſtroy but part of the Tyranny and oppreſſion which is utterly to be deſtroy<g ref="char:EOLhyphen"/>ed, [Mark that] and preſerve part of it, take heed leaſt the Lord rent ye from your places for your ſtubbornneſſe, and diſobedience, as he rent <hi>Saul</hi> from his Kingdom, for his.</p>
+            <p>Therefore awake, awake, and wait in the light, to feel the Lords ſtrength, that therein your zeal and courage for him may be renewed, and linger not in things as ye have done, but dwell in the power of the Lord, (ye who have felt it, and do not abuſe it, or reſiſt it any longer) and in his power act for the freedom and juſt liberty of all his Creatures, and this will bring honour unto the Lord, that ſo ye in whoſe hearts there is a ſingleneſſe, an honeſty and an uprightneſſe unto the Lord, (may keep your ſelves from being defiled with the corruptneſſe of others) and ſo be preſerved in his wiſdom and power, in the breakings, overturnings, or pur<g ref="char:EOLhyphen"/>gings, and ſeparating, that yet muſt be in the Nation.</p>
+            <p>And Freinds in the Army, when will the ſpirit of Righte<g ref="char:EOLhyphen"/>ouſneſſe and equity be clearly manifeſted among you, to Rule you thus, that ſo long as ye bear an outward ſword, it might be onely turned againſt evil doers, and not for the upholding any oppreſſion whatſoever, but for the breaking down of all oppreſſion and Tyranny whereſoever it is found, and for
+<pb n="7" facs="tcp:193546:4" rendition="simple:additions"/>keeping the outward peace, whileſt equal and juſt Laws be e<g ref="char:EOLhyphen"/>ſtabliſhed, whereby the juſt liberties and outward freedom of the Nation might be enjoyed; and not to make a trade of uſing your ſwords to enrich your ſelves by them, by heaping up outward riches, and to feed your luſts; But whileſt ye uſe your ſwords, to be content with ſuch wages, as might but even finde you things neceſſary and convenient for your places?</p>
+            <p>Now if this ſpirit lead you, then ſelf-denial will be manife<g ref="char:EOLhyphen"/>ſted in you indeed, and they that called you a mercenary Ar<g ref="char:EOLhyphen"/>my, then ſhould be aſhamed; for if tyranny and oppreſſion were deſtroyed, and equity, true outward liberty and free<g ref="char:EOLhyphen"/>dom were eſtabliſhed, and the enemies of it ſo brought to n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ught, that ſo there were no need of you, this ſpirit if it rul<g ref="char:EOLhyphen"/>ed you, would make you as freely wiling then, to lay down your places and ſwords, as ever any of you were made free to take them up; and then to fall upon improving the Creation in the fear and wiſdom of the Lord, and to be content to enjoy an e<g ref="char:EOLhyphen"/>qual proportion &amp; ſhare of the liberty (with your fellow-crea<g ref="char:EOLhyphen"/>tures) which you have fought for; and if it were thus, then ye might truly be called the <hi>Common wealths-men,</hi> or ſervants.</p>
+            <p>But if ye carry a ſword, and expect and deſire ſtill to carry or uphold a ſword, to make a trade of (mark that) then I know you will not utterly bring down oppreſſors, and op<g ref="char:EOLhyphen"/>preſſion, and firmly eſtabliſh outward liberty, though yee could, leaſt your trade ſhould fall; Now if you do not act fingly for your Nations good (and ſtand out of all ſelf ends whatſoever) but ſtill continue, making a trade of uſing your ſwords, then you cannot truly be called the Common-wealths Servants; but ſuch as ſerves your ſelves, and ſuch as are their maſters, though you receive wages of them.</p>
+            <p>And Friends, there are many things done lately in the name of the keepers of the liberty of <hi>England;</hi> Now <hi>(Mark)</hi> ye ſhould firſt make <hi>England</hi> a Free Nation, and ſet it at liber<g ref="char:EOLhyphen"/>ty from all its oppreſſion and bondage that it is in [before ye take ſuch a name upon you] and then in the fear and wiſdom of the Lord, ſee to preſerve and keep its liberty, and then ye might truly be called the keepers of the liberty of <hi>England,</hi> but if ye do not firſt ſet it at liberty, and then keep it, and yet
+<pb n="8" facs="tcp:193546:5" rendition="simple:additions"/>be called the keepers of the liberty of it, ye will be but like un<g ref="char:EOLhyphen"/>to thoſe which had a name that they lived, and yet were dead and like the falſe Chriſtians who are puffed up with a name but are out of the nature which belongs to the name.</p>
+            <p>This from me, who have a tender love going forth unto all, both in Parliament, Army and others, who have any true breathings or deſire (in them) after Righteouſneſſe, Truth, Equity Mercy, Juſtice and true Judgement (which wait to ſee ſet up and eſtabliſhed;) And I honour the higher power, and am ſubject thereunto where ever, or in whomſoever it doth appear which Power hath made me a Watch-man unto you, to warn you, and to watch for your ſouls and for peace; And in obeying this Power, I am clear of, and free from the blood of all men.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
